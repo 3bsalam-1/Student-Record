@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\am505\Desktop\Student\res\Student.jar</jar>
+  <outfile>C:\Users\am505\Desktop\Student\student.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\am505\Desktop\Student\res\130manstudent2_100617.ico</icon>
+  <jre>
+    <path></path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+  <versionInfo>
+    <fileVersion>1.0.4.1</fileVersion>
+    <txtFileVersion>3bsalam</txtFileVersion>
+    <fileDescription>student record system</fileDescription>
+    <copyright>java team</copyright>
+    <productVersion>1.1.4.1</productVersion>
+    <txtProductVersion>3bsalam</txtProductVersion>
+    <productName>student record system</productName>
+    <companyName></companyName>
+    <internalName>student</internalName>
+    <originalFilename>student.exe</originalFilename>
+    <trademarks></trademarks>
+    <language>ENGLISH_US</language>
+  </versionInfo>
+</launch4jConfig>
